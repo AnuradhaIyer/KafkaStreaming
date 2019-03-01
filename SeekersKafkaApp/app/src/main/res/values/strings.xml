@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SeekersKafkaApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">Send Message</string>
+    <string name="clear">Clear Text</string>
+    <string name="typer_message">Typer Message....</string>
+    <string name="consumer">View Message</string>
+</resources>

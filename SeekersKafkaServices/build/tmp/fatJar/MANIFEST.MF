@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: final jar
+Implementation-Version: 1.0-SNAPSHOT
+Main-Class: edu.sjsu.SeekersKafkaServices.Application
+
